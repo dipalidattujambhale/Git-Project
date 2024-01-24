@@ -1,0 +1,8 @@
+abstact class vehicle{
+    abstact void start();
+      void stop()
+     {
+      system.out.println("Press break");
+    }
+   } 
+    
